@@ -9,6 +9,5 @@ driver.get("https://www.wonga.pl/")
 print(driver.title) 
 
 assert driver.title == 'Pożyczki online - szybkie i na raty - lepsze niż chwilówki przez Internet | Wonga'
-git init
 
 driver.close()
