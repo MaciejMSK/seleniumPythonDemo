@@ -1,8 +1,3 @@
-
-
-
-
-
 from ast import Assert
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
